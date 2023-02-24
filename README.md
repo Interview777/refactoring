@@ -7,4 +7,4 @@
 ### 체크
 |구분|미니|하모|원비|kyo|준호|
 |---|---|---|---|---|---|
-|1주차||||||
+|1주차|---|---|---|[Diary](https://github.com/KyoPak/Diary/blob/Refactoring-MVVM-C/README.md)|---|
